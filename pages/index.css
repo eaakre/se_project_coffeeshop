@@ -86,7 +86,7 @@
   margin: auto 0 0 50px;
 }
 
-.footer__columns {
+.header__columns {
   margin-top: auto;
 }
 
@@ -138,12 +138,9 @@
 
 .recipes__video-caption {
   display: flex;
+  justify-content: space-between;
   margin-top: 24px;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-}
-
-.recipes__video-caption_time {
-  margin-left: auto;
 }
