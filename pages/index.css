@@ -93,6 +93,7 @@
 .header__paragraph {
   color: #838383;
   font-weight: 500;
+  margin: 0;
 }
 
 .recipes {
@@ -132,14 +133,17 @@
 }
 
 .recipes__iframe {
-  width: 480px;
-  height: 273px;
+  border: none;
 }
 
 .recipes__video-caption {
-  margin-top: 24px;
   display: flex;
+  margin-top: 24px;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+}
+
+.recipes__video-caption_time {
+  margin-left: auto;
 }
