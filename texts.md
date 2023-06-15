@@ -1,28 +1,3 @@
-## Section: Reservation
-
-**Title and description**
-
-Book a table
-
-**Form labels**
-
-Name _
-Number of guests _
-Date & time _
-Your email _
-
-Book a table
-
-I agree with the terms of use
-
-**Placeholders**
-
-Name Surname
-1-8
-email@email.com
-
----
-
 ## Section: Menu
 
 **Title and description**
