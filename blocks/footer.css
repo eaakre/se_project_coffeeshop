@@ -29,6 +29,7 @@
 }
 
 .footer__list {
+  padding-left: 0;
   margin: 20px 0 0;
 }
 
