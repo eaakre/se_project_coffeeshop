@@ -38,7 +38,7 @@
 
 .about__paragraph {
   margin: 0 0 20px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
